@@ -8,4 +8,4 @@ Für Änderungen an dem Inhalt des Repos kann mir gerne geschrieben werden oder 
 
 |Information|Datei|
 |---|---|
-|Koordinaten|[coordinates.csv](./coordinates.csv)
+|Koordinaten|[coordinates.csv](./data/coordinates.csv)
